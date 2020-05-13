@@ -1,0 +1,6 @@
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/obj/x86/Debug/FCproyecto2.csprojAssemblyReference.cache
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/obj/x86/Debug/FCproyecto2.csproj.CoreCompileInputs.cache
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/bin/Debug/FCproyecto2.exe
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/bin/Debug/FCproyecto2.pdb
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/obj/x86/Debug/FCproyecto2.exe
+/Users/francocruzat/Desktop/FCproyecto2/FCproyecto2/obj/x86/Debug/FCproyecto2.pdb
